@@ -14,3 +14,7 @@ The primary objective of the project is to develop a Details Dashboard, serving 
 
 ## Overview Report snapshot
 ![over](https://github.com/Radhika190/Bank-loan-data-analysis-project/assets/128241822/390df856-e14e-42ad-b3e2-ba63f45c2071)
+
+## Thankyou
+
+Explore, analyze, and enjoy the power of data with this repository...
