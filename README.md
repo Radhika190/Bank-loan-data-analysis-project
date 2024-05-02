@@ -4,7 +4,7 @@ Bank loans are a crucial financial tool that enables individuals and businesses 
 
 The Bank Loan Data Analysis Project aims to delve into the bank's lending activities and performance through the creation of a comprehensive Bank Loan Report. This report will offer insights into key loan-related metrics, aiding in making informed decisions, monitoring the loan portfolio's health, and identifying trends to inform lending strategies.
 
-Utilizing Excel, the project calculates various metrics including Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio. Additionally, it provides insights into Monthly Trends by Issue Date, Regional Analysis by State, Loan Term Analysis, Employee Length Analysis, Loan Purpose Breakdown, and Home Ownership Analysis.
+Utilizing Excel, I calculate various metrics including Total Loan Applications, Total Funded Amount, Total Amount Received, Average Interest Rate, and Average Debt-to-Income Ratio. Additionally, it provides insights into Monthly Trends by Issue Date, Regional Analysis by State, Loan Term Analysis, Employee Length Analysis, Loan Purpose Breakdown, and Home Ownership Analysis.
 
 The primary objective of the project is to develop a Details Dashboard, serving as a user-friendly interface for accessing vital loan data. This dashboard will provide comprehensive insights into the loan portfolio, borrower profiles, and loan performance, acting as a one-stop solution for users seeking detailed information.
 
